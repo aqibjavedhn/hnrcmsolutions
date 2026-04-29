@@ -1,0 +1,52 @@
+hnrcmsolutions/
+├── app/
+│   ├── about/
+│   │   └── page.tsx
+│   ├── contact/
+│   │   └── page.tsx
+│   ├── services/
+│   │   ├── credentialing/
+│   │   │   └── page.tsx
+│   │   ├── denial-management/
+│   │   │   └── page.tsx
+│   │   ├── medical-billing/
+│   │   │   └── page.tsx
+│   │   ├── patient-helpdesk/
+│   │   │   └── page.tsx
+│   │   ├── virtual-assistants/
+│   │   │   └── page.tsx
+│   │   └── page.tsx
+│   ├── favicon.ico
+│   ├── globals.css
+│   ├── layout.tsx
+│   └── page.tsx
+│
+├── components/
+│   ├── home/
+│   │   ├── Hero.tsx
+│   │   ├── Services.tsx
+│   │   ├── Stats.tsx
+│   │   ├── WhyChoose.tsx
+│   │   └── CTA.tsx
+│   │
+│   ├── layout/
+│   │   ├── Footer.tsx
+│   │   └── Navbar.tsx
+│   │
+│   └── ui/
+│       ├── Button.tsx
+│       └── SectionHeading.tsx
+│
+├── lib/
+│   └── constants.ts
+│
+├── public/
+│   ├── logo.png
+│   └── hero-pattern.svg
+│
+├── tailwind.config.ts
+├── tsconfig.json
+├── postcss.config.js
+├── next.config.js
+├── package.json
+└── README.md
